@@ -9,7 +9,7 @@
     "publisher": "Kybik",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Kybikcube/Kybik"
+        "url": "https://github.com/Kybikcube/Kybik-Theme"
     },
     "icon": "icon.jpg",
     "contributes": {
