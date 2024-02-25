@@ -1,0 +1,31 @@
+{        
+    "name": "kybik",
+    "displayName":"Kybik Theme",
+    "description":"Kybik theme for Visual Studio Code",
+    "version": "0.0.2",
+    "engines": {
+        "vscode": ">=0.9.0-pre.1"
+    },
+    "publisher": "Kybik",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Kybikcube/Kybik"
+    },
+    "icon": "icon.jpg",
+    "contributes": {
+        "themes": [
+            {
+                "id": "Kybik",
+                "label": "Kybik",
+                "uiTheme": "vs-dark",
+                "path": "./themes/kybik-color-theme.json"
+            },
+            {
+                "id": "Kybik Dark",
+                "label": "Kybik Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/kybik-dark-color-theme.json"
+            }
+        ]
+    }
+}
